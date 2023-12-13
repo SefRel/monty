@@ -1,1 +1,1 @@
-solution to # 0x19. C - Stacks, Queues - LIFO, FIFO Project
+# Solution to  0x19. C - Stacks, Queues - LIFO, FIFO Project
