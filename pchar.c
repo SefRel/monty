@@ -28,3 +28,4 @@ void f_pchar(stack_t **head, unsigned int counter)
 		exit(EXIT_FAILURE);
 	}
 	printf("%c\n", h->n);
+}
